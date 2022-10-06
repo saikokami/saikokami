@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saikokami
 - 👀 I’m interested in modern technology
-- 🌱 I’m currently learning c# and Visual Basic - WPF soon ™
+- 🌱 I’m currently learning c#, Visual Basic - c++ for game hacking soon
 - 💞️ I’m a beginner so feel free to hit me up with improvements on my code
 - 📫 Feel free to send me a message kontakt_bennedikt.eu - just replace the _
 
