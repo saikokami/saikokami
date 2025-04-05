@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saikokami
 - 👀 I’m interested in modern technology
-- 🌱 I’m currently learning c#, Visual Basic - c++ for game hacking soon
+- 🌱 I’m currently learning c# and java to improve myself
 - 💞️ I’m a beginner so feel free to hit me up with improvements on my code
-- 📫 Feel free to send me a message kontakt_bennedikt.eu - just replace the _
+- 📫 Feel free to send me a message
 
 <!---
 saikokami/saikokami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
